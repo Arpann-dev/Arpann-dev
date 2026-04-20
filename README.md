@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a B.Tech Computer Science student passionate about using machine learning to solve real-world problems. I’m familiar with Python, C, C++, and Java, and I’ve built small ML projects using libraries like Pandas, NumPy, Matplotlib, and Scikit-learn.
 
-🧠 Currently learning: ML model evaluation, real-world project workflows  
+🧠 Currently learning: Data structures and algorithms, ML and AI
 🚀 Working on: A missile interceptor prediction model using Python  
 📷 Interests beyond code: Aviation | Military tech | Photography
 
